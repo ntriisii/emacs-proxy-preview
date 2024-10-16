@@ -16,7 +16,9 @@ those lines represent the connection URL that the request is supposed to be sent
 
 
 
-https://github.com/user-attachments/assets/a7b3ae95-ec6b-4508-8516-08a2b7dfc987
+https://github.com/user-attachments/assets/c6ac3775-ca32-427e-b74e-763bbe67b96a
+
+
 
 
 request buffer support evaluating python expressions to be interpolated in-place when 
@@ -24,7 +26,9 @@ the request is to be sent.
 
 
 
-https://github.com/user-attachments/assets/dc2fb4d5-f264-45dc-b3f3-f1d784f0797c
+https://github.com/user-attachments/assets/9dd12757-c850-41ee-aa84-2b67ea4003cb
+
+
 
 
 in the request buffer it only support single value data, meaning that anything that will
@@ -41,6 +45,10 @@ https://github.com/user-attachments/assets/b8d1421c-1dcd-4028-ae52-471558b2a312
 
 ### compare requests and responses 
 it also supports comparision between requests and responses using emacs builtin ediff.
+
+
+
+https://github.com/user-attachments/assets/bd13beab-6dde-4925-80b6-0016edf8100a
 
 
 
